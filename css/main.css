@@ -26,7 +26,7 @@ header {
 
 }
 
-@media only screen and (min-width: 25em) {
+@media only screen and (min-width: 60em) {
 
   html {
     color: #efefef;
